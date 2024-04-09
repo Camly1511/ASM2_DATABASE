@@ -1,0 +1,27 @@
+D:\VS project\asm2 database\bin\Debug\net6.0-windows\asm2 database.exe
+D:\VS project\asm2 database\bin\Debug\net6.0-windows\asm2 database.deps.json
+D:\VS project\asm2 database\bin\Debug\net6.0-windows\asm2 database.runtimeconfig.json
+D:\VS project\asm2 database\bin\Debug\net6.0-windows\asm2 database.dll
+D:\VS project\asm2 database\bin\Debug\net6.0-windows\asm2 database.pdb
+D:\VS project\asm2 database\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\VS project\asm2 database\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\VS project\asm2 database\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\VS project\asm2 database\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\VS project\asm2 database\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VS project\asm2 database\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VS project\asm2 database\obj\Debug\net6.0-windows\asm2 database.csproj.AssemblyReference.cache
+D:\VS project\asm2 database\obj\Debug\net6.0-windows\asm2_database.Form1.resources
+D:\VS project\asm2 database\obj\Debug\net6.0-windows\asm2_database.Form2.resources
+D:\VS project\asm2 database\obj\Debug\net6.0-windows\asm2_database.Form3.resources
+D:\VS project\asm2 database\obj\Debug\net6.0-windows\asm2_database.Properties.Resources.resources
+D:\VS project\asm2 database\obj\Debug\net6.0-windows\asm2 database.csproj.GenerateResource.cache
+D:\VS project\asm2 database\obj\Debug\net6.0-windows\asm2 database.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS project\asm2 database\obj\Debug\net6.0-windows\asm2 database.AssemblyInfoInputs.cache
+D:\VS project\asm2 database\obj\Debug\net6.0-windows\asm2 database.AssemblyInfo.cs
+D:\VS project\asm2 database\obj\Debug\net6.0-windows\asm2 database.csproj.CoreCompileInputs.cache
+D:\VS project\asm2 database\obj\Debug\net6.0-windows\asm2 database.csproj.CopyComplete
+D:\VS project\asm2 database\obj\Debug\net6.0-windows\asm2 database.dll
+D:\VS project\asm2 database\obj\Debug\net6.0-windows\refint\asm2 database.dll
+D:\VS project\asm2 database\obj\Debug\net6.0-windows\asm2 database.pdb
+D:\VS project\asm2 database\obj\Debug\net6.0-windows\asm2 database.genruntimeconfig.cache
+D:\VS project\asm2 database\obj\Debug\net6.0-windows\ref\asm2 database.dll
